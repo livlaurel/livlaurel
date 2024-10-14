@@ -3,11 +3,11 @@
   I am eager to learn and create 🌸
 ### about me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
-- 🌿 I’m currently working on:  
+- 🌿 I’m currently working on:
    * Danddy - Class Project  
    * Personality Test - Personal Project
   
-- 🌱 I’m currently learning:  
+- 🌱 I’m currently learning:
    * React, Typescript
    * UI/UX Design
   
