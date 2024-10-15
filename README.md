@@ -1,15 +1,22 @@
+![Banner](https://github.com/livlaurel/livlaurel/blob/main/Your%20paragraph%20text.gif?raw=true)
 # Hello!! I'm Olivia 🍵
   I hope you're doing well!  
   I am eager to learn and create 🌸
 ### about me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
 - 🌿 I’m currently working on:
+   * AnimalCareBot - TXST Research Project
    * Danddy - Class Project  
    * Personality Test - Personal Project
   
 - 🌱 I’m currently learning:
    * React, Typescript
    * UI/UX Design
+ 
+- 🪭 Interests:
+   * Frontend Dev
+   * Game Design
+   * Graphic Design
   
 - 💌 How to reach me:  
   [Email](OLaurel113@gmail.com)   
