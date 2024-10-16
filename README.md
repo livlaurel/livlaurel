@@ -2,6 +2,7 @@
 # Hello!! I'm Olivia 🍵
   I hope you're doing well!  
   I am eager to learn and create 🌸
+  
 ### about me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
 - 🌿 I’m currently working on:
