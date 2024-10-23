@@ -16,7 +16,7 @@
  
 - 🪭 Interests:
    * Frontend Dev
-   * Game Design
+   * Game Design/Dev
    * Graphic Design
   
 - 💌 How to reach me:  
