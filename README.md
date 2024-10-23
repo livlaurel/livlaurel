@@ -6,9 +6,9 @@
 ### about me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
 - 🌿 I’m currently working on:
-   * AnimalCareBot - TXST Research Project
-   * Danddy - Class Project  
    * Purrrsonality - Personal Project
+   * AnimalCareBot - TXST Research Project
+   * Danddy - Class Project
   
 - 🌱 I’m currently learning:
    * React, Typescript
