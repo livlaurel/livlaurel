@@ -13,6 +13,7 @@
 - 🌱 I’m currently learning:
    * React, Typescript
    * UI/UX Design
+   * Web Dev
  
 - 🪭 Interests:
    * Frontend Dev
