@@ -7,7 +7,7 @@
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
 - 🌿 I’m currently working on:
    * Purrrsonality - Personal Project
-   * AnimalCareBot - TXST Research Project
+   * Personal Website - Personal Project
    * Danddy - Class Project
   
 - 🌱 I’m currently learning:
