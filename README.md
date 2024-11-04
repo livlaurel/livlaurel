@@ -8,7 +8,7 @@
 - 🌿 I’m currently working on:
    * Purrrsonality - Personal Project
    * AnimalCareBot - TXST Research Project
-   * Danddy - Class Project (Software Engineering) 
+   * Danddy - Class Project
   
 - 🌱 I’m currently learning:
    * React, Typescript
