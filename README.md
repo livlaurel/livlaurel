@@ -18,6 +18,10 @@
 - 🪭 Interests:
    * Frontend Dev
    * Graphic Design
+
+- 🪽 Goals:
+  * Commit Everyday in March
+  * Complete Unfinished Projects
   
 - 💌 How to reach me:  
   [Email](OLaurel113@gmail.com)   
