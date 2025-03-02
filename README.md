@@ -3,7 +3,7 @@
   I hope you're doing well!  
   I am eager to learn and create 🌸
   
-### about me:
+### About Me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
 - 🌿 I’m currently working on:
    * Purrrsonality - Personal Project
