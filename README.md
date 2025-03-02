@@ -8,16 +8,15 @@
 - 🌿 I’m currently working on:
    * Purrrsonality - Personal Project
    * Personal Website - Personal Project
-   * Danddy - Class Project
+   * Research Website - TXST Research
   
 - 🌱 I’m currently learning:
-   * React, Typescript
+   * React/Tailwind
    * UI/UX Design
    * Web Dev
  
 - 🪭 Interests:
    * Frontend Dev
-   * Game Design/Dev
    * Graphic Design
   
 - 💌 How to reach me:  
