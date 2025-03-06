@@ -1,5 +1,5 @@
 ![Banner](https://github.com/livlaurel/livlaurel/blob/main/Your%20paragraph%20text.gif?raw=true)
-# Hello!! I'm Olivia 🍵
+# Hello! I'm Olivia 🍵
   I hope you're doing well!  
   I am eager to learn and create 🌸
   
