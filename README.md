@@ -6,7 +6,7 @@
 ### About Me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
 - 🌿 I’m currently working on:
-   * Purrrsonality - Personal Project
+   * Calm Keys - Personal Project
    * Personal Website - Personal Project
    * Research Website - TXST Research
   
