@@ -21,7 +21,7 @@
 
 - 🪽 Goals:
   * Commit Everyday in March
-  * Complete Unfinished Projects
+  * Improve Personal Website
   
 - 💌 How to reach me:  
   [Email](OLaurel113@gmail.com)   
