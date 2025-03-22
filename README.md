@@ -1,6 +1,6 @@
 ![Banner](https://github.com/livlaurel/livlaurel/blob/main/Your%20paragraph%20text.gif?raw=true)
 # Hello! I'm Olivia 🍵
-  I hope you're doing well!  
+  Welcome to my GitHub!  
   
 ### About Me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
