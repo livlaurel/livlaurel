@@ -19,7 +19,7 @@
    * Graphic Design
 
 - 🪽 Goals:
-  * Commit Everyday in March
+  * Code and Learn as Much as I Can
   * Improve Personal Website
   
 - 💌 How to reach me:  
