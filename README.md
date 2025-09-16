@@ -1,6 +1,7 @@
-![Banner](https://github.com/livlaurel/livlaurel/blob/main/Your%20paragraph%20text.gif?raw=true)
+![Banner](https://github.com/user-attachments/assets/f8f9bd86-8280-48a4-83ef-a7b31cb4edd5)
 # Hello! I'm Olivia 🍵
-  Welcome to my GitHub !  
+  Welcome to my GitHub !
+
   
 ### About Me:
 ⊹ ࣪ ˖ ꒰ঌ ♡ ໒꒱ ⊹ ࣪ ˖
