@@ -1,5 +1,4 @@
-![Banner](https://github.com/user-attachments/assets/5f154c5d-ce71-47ad-af12-bd7a3c205a9f)
-
+![Banner](https://github.com/user-attachments/assets/6dcf7ac1-0cfd-4a33-99e9-9b007a4df134)
 # Hello! I'm Olivia 🍵
   Welcome to my GitHub !
 
